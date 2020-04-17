@@ -1,0 +1,13 @@
+{
+    "resource": "/v1/membership/user",
+    "path": "/v1/membership/user",
+    "httpMethod": "DELETE",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) ..."
+    },
+    "queryStringParameters": {
+        "id": "id-01"
+    },
+    "body": {
+    }
+}

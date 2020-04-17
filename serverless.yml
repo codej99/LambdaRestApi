@@ -1,0 +1,20 @@
+
+service: restapi
+
+custom:
+  prune:
+    automatic: true
+    number: 5
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  region: ap-northeast-2
+  profile: codej99
+  role: arn:aws:iam::478069740483:role/serverless-role
+
+functions:
+  router:
+    handler: handler.router
+plugins:
+  - serverless-prune-plugin

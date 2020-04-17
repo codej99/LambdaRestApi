@@ -1,0 +1,17 @@
+{
+    "resource": "/v1/membership/user",
+    "path": "/v1/membership/user",
+    "httpMethod": "PUT",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) ..."
+    },
+    "queryStringParameters": {
+        
+    },
+    "body": {
+        "id": "id-01",
+        "name": "happydaddy",
+        "age": 32,
+        "job": "programmer"
+    }
+}

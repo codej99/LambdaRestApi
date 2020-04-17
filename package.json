@@ -1,0 +1,26 @@
+{
+  "name": "lambdarestapi",
+  "version": "1.0.0",
+  "description": "AWS Lambda Rest API",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codej99/LambdaRestApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codej99/LambdaRestApi/issues"
+  },
+  "homepage": "https://github.com/codej99/LambdaRestApi#readme",
+  "dependencies": {
+    "aws-sdk": "^2.657.0",
+    "lambda-api": "^0.10.5"
+  },
+  "devDependencies": {
+    "serverless-prune-plugin": "^1.4.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "resource": "/v1/membership/user/id-01",
+    "path": "/v1/membership/user/id-01",
+    "httpMethod": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) ..."
+    },
+    "queryStringParameters": {
+    },
+    "body": {
+    }
+}
