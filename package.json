@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/codej99/LambdaRestApi#readme",
   "dependencies": {
-    "aws-sdk": "^2.657.0",
+    "aws-sdk": "^2.814.0",
     "lambda-api": "^0.10.5"
   },
   "devDependencies": {
